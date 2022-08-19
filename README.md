@@ -30,4 +30,23 @@ The resulting votes were then broken down into reviews from Vine members (paid) 
 
 ![paid_unpaid](/images/paid_unpaid.png)
 
+Statistics for total number of votes, 5 star votes, and percentage of 5 star votes for both groups were calculated:
+
+![bias](/images/vine_analysis_bias.png)
+
+## Summary
+
+### Bias Stats
+
+##### Paid Reviews/Vine members
+* 20 total reviews
+* 12 Five Star reviews
+* 60.0% Five Star reviews
+
+#### Unpaid Reviews
+* 25,104 reviews
+* 13,479 Five Star reviews
+* 53.7% Five Star reviews
+
+### Conclusion
 
