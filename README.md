@@ -11,8 +11,8 @@ Analysis designed to determine if there is any bias toward favorable reviews fro
 
 ## Process
 
-### Dataset used:
-US shoe sale review data from Amazon - 4,366,916 reviews were analyzed
+#### Dataset used:
+US shoe sale review data from Amazon - **4,366,916 reviews were analyzed**
 
 PySpark was used to perform the ETL (Extract, Transform, Load) process which was connected to an AWS RDS instance and then loaded to pgAdmin. PySpark used to analyze the 4.3 million reviews.
 
