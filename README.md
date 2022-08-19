@@ -18,3 +18,16 @@ PySpark was used to perform the ETL (Extract, Transform, Load) process which was
 
 ## Results
 
+The 4.3M reviews were first narrowed down to the reviews where there were at least 20 votes:
+
+![20votes](/images/votes_over20.png)
+
+Those votes were then narrowed further to where at least half of the votes were labeled as Helpful:
+
+![helpful_votes](/images/helpful_votes.png)
+
+The resulting votes were then broken down into reviews from Vine members (paid) and *regular* buyers (unpaid):
+
+![paid_unpaid](/images/paid_unpaid.png)
+
+
