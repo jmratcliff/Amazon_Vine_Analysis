@@ -41,12 +41,19 @@ Statistics for total number of votes, 5 star votes, and percentage of 5 star vot
 ##### Paid Reviews/Vine members
 * 20 total reviews
 * 12 Five Star reviews
-* 60.0% Five Star reviews
+* ***60.0% Five Star reviews***
 
 #### Unpaid Reviews
 * 25,104 reviews
 * 13,479 Five Star reviews
-* 53.7% Five Star reviews
+* ***53.7% Five Star reviews***
 
 ### Conclusion
+Vine members appear to have a slight bias when reviewing shoes as their 5 Star reviews were 6.3% higher than regular Amazon shoe reviewers.
 
+### Limitations
+The number of Vine members providing reviews for shoes was fairly limited with only 20 reviews compared to the 25k+ reviews for non-Vine members.
+
+### Additional analysis recommended
+* Compare the percentage of additional rating levels (4 star, 3 star, 2 star, 1 star) between the two consumer groups.
+* Run the above analysis on another consumer product group (example - Televisions)
